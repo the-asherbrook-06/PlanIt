@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08c9601b-1688-4c01-bb7b-332a2ba9da52" name="Changes" comment="Workspace - Initial Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_9_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+    <list default="true" id="08c9601b-1688-4c01-bb7b-332a2ba9da52" name="Changes" comment="Workspace - Modified Files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlanIt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PlanIt.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/PlanIt/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/PlanIt/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/PlanIt/models/Attendee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/PlanIt/models/Attendee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/PlanIt/models/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/PlanIt/models/Notification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/PlanIt/models/Session.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/PlanIt/models/Session.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/PlanIt/models/Speaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/PlanIt/models/Speaker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/PlanIt/service/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/PlanIt/service/DatabaseConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/PlanIt/service/NotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/PlanIt/service/NotificationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/PlanIt/service/ScheduleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/PlanIt/service/ScheduleService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/PlanIt/sql/schema/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/PlanIt/sql/schema/schema.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,34 +48,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Java DBMS Project Week/End Project/PlanIt/src/packages/mysql-connector-j-9.1.0.jar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "E:/Java DBMS Project Week/End Project/PlanIt/src/Main.java",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Java DBMS Project Week/End Project/PlanIt/src/packages/mysql-connector-j-9.1.0.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/Java DBMS Project Week/End Project/PlanIt/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.PlanIt.Main" />
@@ -128,7 +115,8 @@
       <workItem from="1731316222608" duration="204000" />
       <workItem from="1731321551687" duration="65000" />
       <workItem from="1731321622951" duration="31000" />
-      <workItem from="1731330235713" duration="10235000" />
+      <workItem from="1731330235713" duration="11090000" />
+      <workItem from="1731380585373" duration="377000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -162,16 +150,36 @@
       <option name="project" value="LOCAL" />
       <updated>1731336565865</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Workspace - Modified Files">
+      <option name="closed" value="true" />
+      <created>1731378467361</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731378467361</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="Setting up Workspace" />
     <MESSAGE value="Workspace - Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Workspace - Initial Commit" />
+    <MESSAGE value="Workspace - Modified Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Workspace - Modified Files" />
   </component>
 </project>
